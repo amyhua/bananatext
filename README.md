@@ -11,6 +11,7 @@ Texting service
 *  bulk upload and download (csv) of contacts (phone numbers + groups) and questionnaire responses
 *  (Tabled) bidding
 *  Individual two-way texting
+*  [Text campaigns](http://simpletexting.com/category/text-messaging-for-real-estate/)
 
 ## Use Cases
 * [Bulk texting customers](https://www.eztexting.com/)
